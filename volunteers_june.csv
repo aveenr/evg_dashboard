@@ -1,0 +1,16 @@
+first_name,last_name,alias,availability,duty_preference,notes
+Alice,Smith,Ali,weekdays,either,
+Bob,Johnson,BJ,weekends,guidings,
+Carol,White,Caz,all,courses,
+David,Brown,DB,weekdays,either,
+Eva,Green,Eva,weekends,grg,
+Frank,Lewis,Frankie,all,guidings,new volunteer
+Grace,Hall,G,weekdays,courses,prefers morning shifts
+Henry,Adams,Hank,weekends,either,reliable on short notice
+Ivy,Baker,Ib,all,courses,
+Jack,Moore,JMo,weekdays,guidings,limited to afternoons
+Karen,Young,KY,all,grg,certified for GRG only
+Leo,Turner,LT,weekends,guidings,available Sundays only
+Maria,Scott,Mars,all,either,can drive group van
+Noah,Evans,N,weekdays,courses,new but eager
+Olivia,Clark,Olly,weekends,courses,
