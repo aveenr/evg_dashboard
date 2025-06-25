@@ -1,0 +1,8 @@
+event_id,type,school_name,event_name,grade,num_students,date,start_time,end_time,required
+GRG001,grg,,GRG Session,0,0,2025-06-13,09:00,14:00,1
+COR001,course,Thomas Moore,Ocean Connection,3,100,2025-06-18,08:00,08:30,1
+GUI001,guiding,Greyville PS,General,3,46,2025-06-20,09:00,10:30,1
+GUI002,guiding,Reddam House Ballito,General,2,122,2025-06-20,08:30,10:00,12
+COR002,course,St Mary’s DSG,Form & Function,7,44,2025-06-12,09:00,13:00,4
+COR003,course,Nice School,Animals and Ecosystems,4,72,2025-06-28,09:00,13:00,6
+COR004,course,test,test,1,0,2025-06-30,08:00,08:30,1
